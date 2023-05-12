@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'; 
 import { AppContext } from './context/contextApi';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Header from './components/Header';
